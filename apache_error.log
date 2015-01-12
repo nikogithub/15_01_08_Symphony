@@ -1,0 +1,29 @@
+[Mon Jan 12 10:52:09 2015] [notice] FastCGI: process manager initialized (pid 1320)
+[Mon Jan 12 10:52:10 2015] [notice] Digest: generating secret for digest authentication ...
+[Mon Jan 12 10:52:10 2015] [notice] Digest: done
+[Mon Jan 12 10:52:10 2015] [notice] Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 configured -- resuming normal operations
+[Mon Jan 12 11:29:26 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/docs-assets, referer: http://localhost/MAMP/?language=French
+[Mon Jan 12 12:14:34 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/15_01_08_Symphony
+[Mon Jan 12 12:15:07 2015] [error] [client ::1] Directory index forbidden by Options directive: /Users/nico/Qsync/15_01_08_Symphony/
+[Mon Jan 12 12:15:07 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/favicon.ico, referer: http://localhost/
+[Mon Jan 12 12:15:11 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/mysite4you.noip.me
+[Mon Jan 12 12:15:12 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/movie
+[Mon Jan 12 12:15:19 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/Movies
+[Mon Jan 12 12:15:38 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/movie
+[Mon Jan 12 12:15:53 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/movie
+[Mon Jan 12 12:16:07 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/15_01_08_Symphony
+[Mon Jan 12 12:16:10 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/15_01_08_Symphony
+[Mon Jan 12 12:16:10 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/15_01_08_Symphony
+[Mon Jan 12 12:36:42 2015] [error] [client 192.168.5.30] Directory index forbidden by Options directive: /Users/nico/Qsync/15_01_08_Symphony/
+[Mon Jan 12 12:41:30 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/15_01_08_Symphony
+[Mon Jan 12 12:49:42 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/15_01_08_Symphony
+[Mon Jan 12 12:52:10 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/movie
+[Mon Jan 12 12:52:13 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/movie
+[Mon Jan 12 12:52:14 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/movie
+[Mon Jan 12 12:52:57 2015] [error] [client ::1] Directory index forbidden by Options directive: /Users/nico/Qsync/15_01_08_Symphony/
+[Mon Jan 12 12:53:05 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/appdev
+[Mon Jan 12 13:13:03 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/15_01_08_Symphony
+[Mon Jan 12 13:13:08 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/15_01_08_Symphony
+[Mon Jan 12 13:21:48 2015] [error] [client 192.168.5.116] Directory index forbidden by Options directive: /Users/nico/Qsync/15_01_08_Symphony/
+[Mon Jan 12 14:07:03 2015] [error] [client 192.168.5.179] Directory index forbidden by Options directive: /Users/nico/Qsync/15_01_08_Symphony/
+[Mon Jan 12 14:43:30 2015] [error] [client ::1] File does not exist: /Users/nico/Qsync/15_01_08_Symphony/15_01_08_Symphony

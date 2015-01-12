@@ -1,0 +1,33 @@
+{% extends 'base.html.twig' %}
+
+
+{% block title %}
+    
+
+{% endblock title %}
+
+
+{% block body %}
+    <h2>Les Fimls</h2>
+    
+    <div class = "poster_container">
+        
+        {% for movie in movies %}
+
+           <a href= "{{ path('movieDetails', {'id':movie.id}) }}" class="movie">
+            <img src="{{ movie.poster}}" title="movie">
+           </a>
+
+        {% endfor %}
+        
+    </div>
+        
+{% endblock body%}
+
+
+
+{% block sidebar %}
+    
+        {{ moviesNumber }}
+
+{% endblock sidebar %}

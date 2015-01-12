@@ -1,0 +1,4 @@
+[12-Jan-2015 13:02:07 Europe/Paris] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1956401 bytes) in /Users/nico/Qsync/15_01_08_Symphony/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/DataCollector/DataCollector.php on line 35
+[12-Jan-2015 14:40:07 Europe/Paris] PHP Fatal error:  Cannot redeclare AppBundle\Controller\MoviesController::MoviesAction() in /Users/nico/Qsync/15_01_08_Symphony/src/AppBundle/Controller/MoviesController.php on line 41
+[12-Jan-2015 14:40:07 Europe/Paris] PHP Fatal error:  Cannot redeclare AppBundle\Controller\MoviesController::MoviesAction() in /Users/nico/Qsync/15_01_08_Symphony/src/AppBundle/Controller/MoviesController.php on line 41
+[12-Jan-2015 14:55:07 Europe/Paris] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /Users/nico/Qsync/15_01_08_Symphony/src/AppBundle/Entity/MovieRepository.php on line 17

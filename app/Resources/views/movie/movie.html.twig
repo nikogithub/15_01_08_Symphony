@@ -1,0 +1,39 @@
+{% extends 'base.html.twig' %}
+
+
+{% block title %}
+    
+
+{% endblock title %}
+
+
+{% block body %}
+
+    <div class="grid">
+        <div class="small-2 large-4 columns">
+                <a href= "#" class="movie"><img src="{{ movie.poster}}"</></a>
+                        <p  class="sidebar">
+                         {{movie.imdbId}}</br>
+                         {{movie.title}}</br>
+                         {{movie.year}}</br>
+                         {{movie.rating}}</br>
+                         {{movie.votes}}</br>
+                         {{movie.genres}}</br>
+                         {{movie.directors}}</br>
+                         {{movie.writers}}</br>
+                         {{movie.plot}}</br>
+                         {{movie.countries}}</br>
+                         {{movie.poster}}</br>
+                        </p>
+        </div>
+    </div>
+  
+       
+{% endblock body%}
+
+
+
+{% block sidebar %}
+    
+     
+{% endblock sidebar %}
